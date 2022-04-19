@@ -120,12 +120,5 @@ wrapper(main)
 ## find start by looping through all rows columns and looking at values 'find_start'
 ## create queue and keep track of all elements you visited
 ## the idea is to look at all neighbors and check if end node
-## 
-
-# things i need to test in jupyter
-## for i,row & for j,values
-## .put & .get
-
-
 
 
